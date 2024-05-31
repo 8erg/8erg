@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b3rg01
 - 👀 I’m interested in Cybersecurity Research in various topics from finding vulnerabilities in software as well as cars...
-- 🌱 I’m currently learning reverse engineering/Malware Development
+- 🌱 I’m currently learning Reverse Engineering/Malware Development
 - 📫 You can reach out to me via my Twitter
 
 <!---
